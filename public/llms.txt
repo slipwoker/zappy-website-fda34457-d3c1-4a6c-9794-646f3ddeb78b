@@ -1,0 +1,99 @@
+# Oz Print — Generative Engine Optimization Map
+
+> Oz Print is a specialized printing and custom decor business that prints on glass (all sizes) and perspex, creates LED-backlit art pieces, and produces decorative panels to cover electrical cabinets. The brand combines technology with aesthetics, offering both product delivery and professional installation services nationwide across Israel. The business has an active Instagram presence under 'oz print' and emphasizes high-quality, visually impressive results.
+
+---
+
+## Pages
+
+### בית
+https://oz-print-fda34457.zappy5.app
+הדפסה יוקרתית על זכוכית ופרספקס בעיצוב אישי, לוחות דקורטיביים מוארים ב-LED וכיסוי לארונות חשמל. משלוח והתקנה מקצועית בכל הארץ. שדרגו את החלל שלכם עוד היום!
+
+### שירותים
+https://oz-print-fda34457.zappy5.app/services
+שירותי הדפסה על זכוכית בכל הגדלים, יצירת אמנות LED אחורית, לוחות כיסוי מעוצבים ועוד. פתרונות מושלמים למי שמחפש יופי ופונקציונליות. גלו את כל האפשרויות!
+
+### גלריה
+https://oz-print-fda34457.zappy5.app/gallery
+גלריה מעוררת השראה של הדפסות זכוכית, לוחות פרספקס מוארים ועיצובי קיר מותאמים אישית. כל פרויקט הוא הצהרה עיצובית. בואו לראות את הקסם במו עיניכם!
+
+### אודות
+https://oz-print-fda34457.zappy5.app/about
+Oz Print מחברת בין טכנולוגיית הדפסה מתקדמת לאסתטיקה פורצת דרך. מתמחים בזכוכית, פרספקס ולוחות LED ייחודיים. הצטרפו למסע של יצירה איכותית ללא פשרות!
+
+### צור קשר
+https://oz-print-fda34457.zappy5.app/contact
+מוכנים להפוך חלום עיצובי למציאות? השאירו פרטים להדפסה על זכוכית, לוחות נוי או פרויקט LED מותאם אישית. צוות המומחים שלנו יחזור אליכם במהירות עם הצעה מנצחת!
+
+### Products
+https://oz-print-fda34457.zappy5.app/products
+המוצרים שלנו - Oz Print
+
+### Product Detail
+https://oz-print-fda34457.zappy5.app/product/:slug
+פרטי המוצר - Oz Print
+
+### Category
+https://oz-print-fda34457.zappy5.app/category/:slug
+מוצרים - Oz Print
+
+### תודה שפניתם אלינו
+https://oz-print-fda34457.zappy5.app/thank-you
+Oz Print - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://oz-print-fda34457.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://oz-print-fda34457.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://oz-print-fda34457.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Oz Print
+Oz Print is a specialized printing and custom decor business that prints on glass (all sizes) and perspex, creates LED-backlit art pieces, and produces decorative panels to cover electrical cabinets. The brand combines technology with aesthetics, offering both product delivery and professional installation services nationwide across Israel. The business has an active Instagram presence under 'oz print' and emphasizes high-quality, visually impressive results.
+
+## Services/Products
+- הדפסה על זכוכית בכל המידות
+- הדפסה על פרספקס
+- תמונות עם תאורת LED
+- ארונות דקורטיביים לכיסוי ארונות חשמל
+- משלוחים לכל הארץ
+- התקנות בכל הארץ
+
+## Target Audience
+- מעצבי פנים ואדריכלים
+- בעלי בתים יוקרתיים
+- מומחי קישוט למשרדים עסקיים
+- קהל דתי
+- מוסדות ציבוריים
+- בתי כנסת
+
+## Industry
+Printing & Custom Decor
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://oz-print-fda34457.zappy5.app/sitemap.xml
+- Robots: https://oz-print-fda34457.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://oz-print-fda34457.zappy5.app/llms-full.txt
+- Products (JSON): https://oz-print-fda34457.zappy5.app/products.json
+- Products (Google Merchant RSS): https://oz-print-fda34457.zappy5.app/product-feed.xml

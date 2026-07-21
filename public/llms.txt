@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://oz-print-fda34457.zappy5.app
+https://example.com
 הדפסה יוקרתית על זכוכית ופרספקס בעיצוב אישי, לוחות דקורטיביים מוארים ב-LED וכיסוי לארונות חשמל. משלוח והתקנה מקצועית בכל הארץ. שדרגו את החלל שלכם עוד היום!
 
 ### שירותים
-https://oz-print-fda34457.zappy5.app/services
+https://example.com/services
 שירותי הדפסה על זכוכית בכל הגדלים, יצירת אמנות LED אחורית, לוחות כיסוי מעוצבים ועוד. פתרונות מושלמים למי שמחפש יופי ופונקציונליות. גלו את כל האפשרויות!
 
 ### גלריה
-https://oz-print-fda34457.zappy5.app/gallery
+https://example.com/gallery
 גלריה מעוררת השראה של הדפסות זכוכית, לוחות פרספקס מוארים ועיצובי קיר מותאמים אישית. כל פרויקט הוא הצהרה עיצובית. בואו לראות את הקסם במו עיניכם!
 
 ### אודות
-https://oz-print-fda34457.zappy5.app/about
+https://example.com/about
 Oz Print מחברת בין טכנולוגיית הדפסה מתקדמת לאסתטיקה פורצת דרך. מתמחים בזכוכית, פרספקס ולוחות LED ייחודיים. הצטרפו למסע של יצירה איכותית ללא פשרות!
 
 ### צור קשר
-https://oz-print-fda34457.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך חלום עיצובי למציאות? השאירו פרטים להדפסה על זכוכית, לוחות נוי או פרויקט LED מותאם אישית. צוות המומחים שלנו יחזור אליכם במהירות עם הצעה מנצחת!
 
 ### Products
-https://oz-print-fda34457.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Oz Print
 
 ### Product Detail
-https://oz-print-fda34457.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Oz Print
 
 ### Category
-https://oz-print-fda34457.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Oz Print
 
 ### תודה שפניתם אלינו
-https://oz-print-fda34457.zappy5.app/thank-you
+https://example.com/thank-you
 Oz Print - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://oz-print-fda34457.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://oz-print-fda34457.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://oz-print-fda34457.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -92,8 +92,8 @@ Printing & Custom Decor
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://oz-print-fda34457.zappy5.app/sitemap.xml
-- Robots: https://oz-print-fda34457.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://oz-print-fda34457.zappy5.app/llms-full.txt
-- Products (JSON): https://oz-print-fda34457.zappy5.app/products.json
-- Products (Google Merchant RSS): https://oz-print-fda34457.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
